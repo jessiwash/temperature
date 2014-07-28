@@ -18,7 +18,7 @@ def going_hiking(temp)
 
 	if temp is >= 50
 
-		puts "#{temp} is perfect for hiking!"
+		puts "#{temp} is perfect for hiking! Great weather!"
 
 	end
 end
